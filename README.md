@@ -3,6 +3,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RupenParthu/LeetCode/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
 ## Array
 |  |
