@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RupenParthu/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
 ## Array
 |  |
@@ -13,4 +14,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RupenParthu/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
