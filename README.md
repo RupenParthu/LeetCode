@@ -3,6 +3,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RupenParthu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RupenParthu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
@@ -27,9 +28,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RupenParthu/LeetCode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/RupenParthu/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/RupenParthu/LeetCode/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RupenParthu/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
