@@ -23,6 +23,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RupenParthu/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/RupenParthu/LeetCode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
