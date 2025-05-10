@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/RupenParthu/LeetCode/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RupenParthu/LeetCode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RupenParthu/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
