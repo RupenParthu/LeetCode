@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RupenParthu/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/RupenParthu/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupenParthu/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
