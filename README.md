@@ -14,12 +14,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/RupenParthu/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
 | [1293-three-consecutive-odds](https://github.com/RupenParthu/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RupenParthu/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
