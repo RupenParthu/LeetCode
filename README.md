@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/RupenParthu/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0014-longest-common-prefix](https://github.com/RupenParthu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RupenParthu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RupenParthu/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
