@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RupenParthu/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RupenParthu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/RupenParthu/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RupenParthu/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RupenParthu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
