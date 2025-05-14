@@ -1,6 +1,16 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        return haystack.find(needle);
+
+        // can directly use the find function
+        // return haystack.find(needle);
+         if (needle.length() > haystack.length()) return -1;
+         
+        for(int i=0;i<=haystack.length() - needle.length();i++){
+            if(haystack.substr(i,needle.length())==needle){
+                return i;
+            }
+        }
+        return -1;
     }
 };
