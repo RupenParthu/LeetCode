@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/RupenParthu/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/RupenParthu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -34,6 +35,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RupenParthu/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RupenParthu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/RupenParthu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
