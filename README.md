@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/RupenParthu/LeetCode/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/RupenParthu/LeetCode/tree/master/1013-fibonacci-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/RupenParthu/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/RupenParthu/LeetCode/tree/master/3321-type-of-triangle) |
 ## Array
 |  |
