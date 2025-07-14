@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/RupenParthu/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1603-running-sum-of-1d-array](https://github.com/RupenParthu/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [3321-type-of-triangle](https://github.com/RupenParthu/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RupenParthu/LeetCode/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/RupenParthu/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
