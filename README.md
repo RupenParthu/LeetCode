@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/RupenParthu/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/RupenParthu/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/RupenParthu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3321-type-of-triangle](https://github.com/RupenParthu/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RupenParthu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/RupenParthu/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
