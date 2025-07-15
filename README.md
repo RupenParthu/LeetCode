@@ -11,6 +11,7 @@
 | [0070-climbing-stairs](https://github.com/RupenParthu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/RupenParthu/LeetCode/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RupenParthu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RupenParthu/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/RupenParthu/LeetCode/tree/master/3321-type-of-triangle) |
 ## Array
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/RupenParthu/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RupenParthu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
