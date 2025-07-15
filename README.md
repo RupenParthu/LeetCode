@@ -36,6 +36,7 @@
 | [0205-isomorphic-strings](https://github.com/RupenParthu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/RupenParthu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RupenParthu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
