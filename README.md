@@ -47,6 +47,7 @@
 | [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/RupenParthu/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/RupenParthu/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
