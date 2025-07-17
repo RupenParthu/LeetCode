@@ -45,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RupenParthu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -60,6 +61,7 @@
 | [0290-word-pattern](https://github.com/RupenParthu/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RupenParthu/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
@@ -116,6 +118,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
