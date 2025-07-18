@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RupenParthu/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/RupenParthu/LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/RupenParthu/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/RupenParthu/LeetCode/tree/master/1013-fibonacci-number) |
@@ -156,9 +157,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RupenParthu/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RupenParthu/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
