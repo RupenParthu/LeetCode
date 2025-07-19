@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RupenParthu/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/RupenParthu/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/RupenParthu/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RupenParthu/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
@@ -28,6 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RupenParthu/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/RupenParthu/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RupenParthu/LeetCode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/RupenParthu/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -169,9 +171,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RupenParthu/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RupenParthu/LeetCode/tree/master/0258-add-digits) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RupenParthu/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
