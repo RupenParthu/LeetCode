@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RupenParthu/LeetCode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/RupenParthu/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RupenParthu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/RupenParthu/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/RupenParthu/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -68,6 +69,7 @@
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/RupenParthu/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RupenParthu/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
 |  |
 | ------- |
@@ -167,4 +170,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RupenParthu/LeetCode/tree/master/0258-add-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
