@@ -76,6 +76,7 @@
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/RupenParthu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3396-valid-word](https://github.com/RupenParthu/LeetCode/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
