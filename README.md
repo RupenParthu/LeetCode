@@ -14,6 +14,7 @@
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/RupenParthu/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/RupenParthu/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RupenParthu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RupenParthu/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RupenParthu/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -106,6 +107,7 @@
 | [0203-remove-linked-list-elements](https://github.com/RupenParthu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RupenParthu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RupenParthu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
