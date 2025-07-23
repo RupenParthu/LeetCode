@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RupenParthu/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/RupenParthu/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/RupenParthu/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/RupenParthu/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RupenParthu/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
@@ -49,6 +50,7 @@
 | [0049-group-anagrams](https://github.com/RupenParthu/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/RupenParthu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RupenParthu/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RupenParthu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
@@ -123,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RupenParthu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RupenParthu/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/RupenParthu/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RupenParthu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RupenParthu/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RupenParthu/LeetCode/tree/master/0344-reverse-string) |
