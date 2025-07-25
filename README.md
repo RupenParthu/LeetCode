@@ -124,6 +124,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupenParthu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RupenParthu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RupenParthu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RupenParthu/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@
 | [0100-same-tree](https://github.com/RupenParthu/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RupenParthu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RupenParthu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RupenParthu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Enumeration
 |  |
@@ -225,6 +227,7 @@
 | [0100-same-tree](https://github.com/RupenParthu/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RupenParthu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RupenParthu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RupenParthu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +235,7 @@
 | [0100-same-tree](https://github.com/RupenParthu/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RupenParthu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RupenParthu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RupenParthu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
