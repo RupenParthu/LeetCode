@@ -44,6 +44,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/RupenParthu/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/RupenParthu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3321-type-of-triangle](https://github.com/RupenParthu/LeetCode/tree/master/3321-type-of-triangle) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RupenParthu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/RupenParthu/LeetCode/tree/master/0782-jewels-and-stones) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RupenParthu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -236,4 +238,8 @@
 | [0100-same-tree](https://github.com/RupenParthu/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RupenParthu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RupenParthu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RupenParthu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
