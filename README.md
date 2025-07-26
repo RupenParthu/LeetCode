@@ -86,6 +86,7 @@
 | [0412-fizz-buzz](https://github.com/RupenParthu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/RupenParthu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1894-merge-strings-alternately](https://github.com/RupenParthu/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/RupenParthu/LeetCode/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
@@ -142,6 +143,7 @@
 | [0283-move-zeroes](https://github.com/RupenParthu/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RupenParthu/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/RupenParthu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/RupenParthu/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
