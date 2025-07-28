@@ -43,6 +43,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RupenParthu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/RupenParthu/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1755-defuse-the-bomb](https://github.com/RupenParthu/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/RupenParthu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3321-type-of-triangle](https://github.com/RupenParthu/LeetCode/tree/master/3321-type-of-triangle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RupenParthu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -253,4 +254,8 @@
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RupenParthu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/RupenParthu/LeetCode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
