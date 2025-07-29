@@ -82,6 +82,7 @@
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RupenParthu/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RupenParthu/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
@@ -145,6 +146,7 @@
 | [0234-palindrome-linked-list](https://github.com/RupenParthu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RupenParthu/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RupenParthu/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/RupenParthu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/RupenParthu/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
