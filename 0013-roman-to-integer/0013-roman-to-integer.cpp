@@ -1,7 +1,7 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> roman{
+        unordered_map<char,int>maps{
             {'I',1},
             {'V',5},
             {'X',10},
@@ -10,15 +10,16 @@ public:
             {'D',500},
             {'M',1000},
         };
-        int sum = 0;
-        for(int i=0;i<s.length();i++){
-            int value = roman[s[i]];
-            if(i+1<s.length() && value < roman[s[i+1]]){
-                sum-= value;
+        int result = 0;
+        for(int i = 0 ; i < s.size(); i++){
+            int next = (i+1<s.size())?maps[s[i+1]] : 0 ;
+            if(maps[s[i]]>=next){
+                result+=maps[s[i]];
             }else{
-                sum+=value;
+                result-=maps[s[i]];
             }
         }
-        return sum;
+        return result;
+    
     }
 };
