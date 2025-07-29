@@ -40,6 +40,7 @@
 | [0204-count-primes](https://github.com/RupenParthu/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RupenParthu/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1293-three-consecutive-odds](https://github.com/RupenParthu/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RupenParthu/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RupenParthu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -62,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RupenParthu/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
@@ -157,6 +159,7 @@
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RupenParthu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RupenParthu/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/RupenParthu/LeetCode/tree/master/0389-find-the-difference) |
 | [3321-type-of-triangle](https://github.com/RupenParthu/LeetCode/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
@@ -165,10 +168,12 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/RupenParthu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/RupenParthu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RupenParthu/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RupenParthu/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RupenParthu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
@@ -263,4 +268,16 @@
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/RupenParthu/LeetCode/tree/master/1755-defuse-the-bomb) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RupenParthu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
