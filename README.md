@@ -31,6 +31,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/RupenParthu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RupenParthu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RupenParthu/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/RupenParthu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RupenParthu/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RupenParthu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RupenParthu/LeetCode/tree/master/0066-plus-one) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RupenParthu/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RupenParthu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/RupenParthu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RupenParthu/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/RupenParthu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RupenParthu/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -207,6 +209,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RupenParthu/LeetCode/tree/master/0036-valid-sudoku) |
 | [1791-richest-customer-wealth](https://github.com/RupenParthu/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
